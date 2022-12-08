@@ -1,1 +1,2114 @@
-b'{"data":[{"type":"route","id":"101-202","attributes":{"agency_id":"NZB","route_id":"101-202","route_long_name":"101","route_short_name":"101","route_type":3}},{"type":"route","id":"105-202","attributes":{"agency_id":"NZB","route_id":"105-202","route_long_name":"105","route_short_name":"105","route_type":3}},{"type":"route","id":"106-202","attributes":{"agency_id":"NZB","route_id":"106-202","route_long_name":"106","route_short_name":"106","route_type":3}},{"type":"route","id":"110-202","attributes":{"agency_id":"NZB","route_id":"110-202","route_long_name":"110","route_short_name":"110","route_type":3}},{"type":"route","id":"111-206","attributes":{"agency_id":"PC","route_id":"111-206","route_long_name":"111","route_short_name":"111","route_type":3}},{"type":"route","id":"112-206","attributes":{"agency_id":"PC","route_id":"112-206","route_long_name":"112","route_short_name":"112","route_type":3}},{"type":"route","id":"114-206","attributes":{"agency_id":"PC","route_id":"114-206","route_long_name":"114","route_short_name":"114","route_type":3}},{"type":"route","id":"120-203","attributes":{"agency_id":"RTH","route_id":"120-203","route_long_name":"120","route_short_name":"120","route_type":3}},{"type":"route","id":"122-202","attributes":{"agency_id":"NZB","route_id":"122-202","route_long_name":"122","route_short_name":"122","route_type":3}},{"type":"route","id":"125-202","attributes":{"agency_id":"NZB","route_id":"125-202","route_long_name":"125","route_short_name":"125","route_type":3}},{"type":"route","id":"125X-202","attributes":{"agency_id":"NZB","route_id":"125X-202","route_long_name":"125X","route_short_name":"125X","route_type":3}},{"type":"route","id":"126-206","attributes":{"agency_id":"PC","route_id":"126-206","route_long_name":"126","route_short_name":"126","route_type":3}},{"type":"route","id":"128-202","attributes":{"agency_id":"NZB","route_id":"128-202","route_long_name":"128","route_short_name":"128","route_type":3}},{"type":"route","id":"129-202","attributes":{"agency_id":"NZB","route_id":"129-202","route_long_name":"129","route_short_name":"129","route_type":3}},{"type":"route","id":"131-206","attributes":{"agency_id":"PC","route_id":"131-206","route_long_name":"131","route_short_name":"131","route_type":3}},{"type":"route","id":"132-206","attributes":{"agency_id":"PC","route_id":"132-206","route_long_name":"132","route_short_name":"132","route_type":3}},{"type":"route","id":"133-206","attributes":{"agency_id":"PC","route_id":"133-206","route_long_name":"133","route_short_name":"133","route_type":3}},{"type":"route","id":"134-206","attributes":{"agency_id":"PC","route_id":"134-206","route_long_name":"134","route_short_name":"134","route_type":3}},{"type":"route","id":"138-206","attributes":{"agency_id":"PC","route_id":"138-206","route_long_name":"138","route_short_name":"138","route_type":3}},{"type":"route","id":"141-206","attributes":{"agency_id":"PC","route_id":"141-206","route_long_name":"141","route_short_name":"141","route_type":3}},{"type":"route","id":"142-206","attributes":{"agency_id":"PC","route_id":"142-206","route_long_name":"142","route_short_name":"142","route_type":3}},{"type":"route","id":"143-206","attributes":{"agency_id":"PC","route_id":"143-206","route_long_name":"143","route_short_name":"143","route_type":3}},{"type":"route","id":"146-206","attributes":{"agency_id":"PC","route_id":"146-206","route_long_name":"146","route_short_name":"146","route_type":3}},{"type":"route","id":"14T-202","attributes":{"agency_id":"NZB","route_id":"14T-202","route_long_name":"14T","route_short_name":"14T","route_type":3}},{"type":"route","id":"14W-202","attributes":{"agency_id":"NZB","route_id":"14W-202","route_long_name":"14W","route_short_name":"14W","route_type":3}},{"type":"route","id":"151-206","attributes":{"agency_id":"PC","route_id":"151-206","route_long_name":"151","route_short_name":"151","route_type":3}},{"type":"route","id":"152-206","attributes":{"agency_id":"PC","route_id":"152-206","route_long_name":"152","route_short_name":"152","route_type":3}},{"type":"route","id":"154-206","attributes":{"agency_id":"PC","route_id":"154-206","route_long_name":"154","route_short_name":"154","route_type":3}},{"type":"route","id":"161-203","attributes":{"agency_id":"RTH","route_id":"161-203","route_long_name":"161","route_short_name":"161","route_type":3}},{"type":"route","id":"162-202","attributes":{"agency_id":"NZB","route_id":"162-202","route_long_name":"162","route_short_name":"162","route_type":3}},{"type":"route","id":"170-203","attributes":{"agency_id":"RTH","route_id":"170-203","route_long_name":"170","route_short_name":"170","route_type":3}},{"type":"route","id":"171-203","attributes":{"agency_id":"RTH","route_id":"171-203","route_long_name":"171","route_short_name":"171","route_type":3}},{"type":"route","id":"172-203","attributes":{"agency_id":"RTH","route_id":"172-203","route_long_name":"172","route_short_name":"172","route_type":3}},{"type":"route","id":"18-202","attributes":{"agency_id":"NZB","route_id":"18-202","route_long_name":"18","route_short_name":"18","route_type":3}},{"type":"route","id":"186-203","attributes":{"agency_id":"RTH","route_id":"186-203","route_long_name":"186","route_short_name":"186","route_type":3}},{"type":"route","id":"191-203","attributes":{"agency_id":"RTH","route_id":"191-203","route_long_name":"191","route_short_name":"191","route_type":3}},{"type":"route","id":"195-203","attributes":{"agency_id":"RTH","route_id":"195-203","route_long_name":"195","route_short_name":"195","route_type":3}},{"type":"route","id":"20-202","attributes":{"agency_id":"NZB","route_id":"20-202","route_long_name":"20","route_short_name":"20","route_type":3}},{"type":"route","id":"209-203","attributes":{"agency_id":"RTH","route_id":"209-203","route_long_name":"209","route_short_name":"209","route_type":3}},{"type":"route","id":"22A-202","attributes":{"agency_id":"NZB","route_id":"22A-202","route_long_name":"22A","route_short_name":"22A","route_type":3}},{"type":"route","id":"22N-202","attributes":{"agency_id":"NZB","route_id":"22N-202","route_long_name":"22N","route_short_name":"22N","route_type":3}},{"type":"route","id":"22R-202","attributes":{"agency_id":"NZB","route_id":"22R-202","route_long_name":"22R","route_short_name":"22R","route_type":3}},{"type":"route","id":"24B-202","attributes":{"agency_id":"NZB","route_id":"24B-202","route_long_name":"24B","route_short_name":"24B","route_type":3}},{"type":"route","id":"24R-202","attributes":{"agency_id":"NZB","route_id":"24R-202","route_long_name":"24R","route_short_name":"24R","route_type":3}},{"type":"route","id":"24W-202","attributes":{"agency_id":"NZB","route_id":"24W-202","route_long_name":"24W","route_short_name":"24W","route_type":3}},{"type":"route","id":"252-202","attributes":{"agency_id":"NZB","route_id":"252-202","route_long_name":"252","route_short_name":"252","route_type":3}},{"type":"route","id":"253-202","attributes":{"agency_id":"NZB","route_id":"253-202","route_long_name":"253","route_short_name":"253","route_type":3}},{"type":"route","id":"25B-202","attributes":{"agency_id":"NZB","route_id":"25B-202","route_long_name":"25B","route_short_name":"25B","route_type":3}},{"type":"route","id":"25L-202","attributes":{"agency_id":"NZB","route_id":"25L-202","route_long_name":"25L","route_short_name":"25L","route_type":3}},{"type":"route","id":"27H-202","attributes":{"agency_id":"NZB","route_id":"27H-202","route_long_name":"27H","route_short_name":"27H","route_type":3}},{"type":"route","id":"27T-202","attributes":{"agency_id":"NZB","route_id":"27T-202","route_long_name":"27T","route_short_name":"27T","route_type":3}},{"type":"route","id":"27W-202","attributes":{"agency_id":"NZB","route_id":"27W-202","route_long_name":"27W","route_short_name":"27W","route_type":3}},{"type":"route","id":"295-202","attributes":{"agency_id":"NZB","route_id":"295-202","route_long_name":"295","route_short_name":"295","route_type":3}},{"type":"route","id":"298-221","attributes":{"agency_id":"GBT","route_id":"298-221","route_long_name":"298","route_short_name":"298","route_type":3}},{"type":"route","id":"30-202","attributes":{"agency_id":"NZB","route_id":"30-202","route_long_name":"30","route_short_name":"30","route_type":3}},{"type":"route","id":"309-221","attributes":{"agency_id":"GBT","route_id":"309-221","route_long_name":"309","route_short_name":"309","route_type":3}},{"type":"route","id":"309X-221","attributes":{"agency_id":"GBT","route_id":"309X-221","route_long_name":"309X","route_short_name":"309X","route_type":3}},{"type":"route","id":"31-221","attributes":{"agency_id":"GBT","route_id":"31-221","route_long_name":"31","route_short_name":"31","route_type":3}},{"type":"route","id":"313-221","attributes":{"agency_id":"GBT","route_id":"313-221","route_long_name":"313","route_short_name":"313","route_type":3}},{"type":"route","id":"314-221","attributes":{"agency_id":"GBT","route_id":"314-221","route_long_name":"314","route_short_name":"314","route_type":3}},{"type":"route","id":"32-221","attributes":{"agency_id":"GBT","route_id":"32-221","route_long_name":"32","route_short_name":"32","route_type":3}},{"type":"route","id":"321-202","attributes":{"agency_id":"NZB","route_id":"321-202","route_long_name":"321","route_short_name":"321","route_type":3}},{"type":"route","id":"323-221","attributes":{"agency_id":"GBT","route_id":"323-221","route_long_name":"323","route_short_name":"323","route_type":3}},{"type":"route","id":"324-221","attributes":{"agency_id":"GBT","route_id":"324-221","route_long_name":"324","route_short_name":"324","route_type":3}},{"type":"route","id":"325-221","attributes":{"agency_id":"GBT","route_id":"325-221","route_long_name":"325","route_short_name":"325","route_type":3}},{"type":"route","id":"326-221","attributes":{"agency_id":"GBT","route_id":"326-221","route_long_name":"326","route_short_name":"326","route_type":3}},{"type":"route","id":"33-203","attributes":{"agency_id":"RTH","route_id":"33-203","route_long_name":"33","route_short_name":"33","route_type":3}},{"type":"route","id":"333X-202","attributes":{"agency_id":"NZB","route_id":"333X-202","route_long_name":"333X","route_short_name":"333X","route_type":3}},{"type":"route","id":"35-205","attributes":{"agency_id":"HE","route_id":"35-205","route_long_name":"35","route_short_name":"35","route_type":3}},{"type":"route","id":"351-205","attributes":{"agency_id":"HE","route_id":"351-205","route_long_name":"351","route_short_name":"351","route_type":3}},{"type":"route","id":"352-205","attributes":{"agency_id":"HE","route_id":"352-205","route_long_name":"352","route_short_name":"352","route_type":3}},{"type":"route","id":"353-205","attributes":{"agency_id":"HE","route_id":"353-205","route_long_name":"353","route_short_name":"353","route_type":3}},{"type":"route","id":"355-205","attributes":{"agency_id":"HE","route_id":"355-205","route_long_name":"355","route_short_name":"355","route_type":3}},{"type":"route","id":"36-221","attributes":{"agency_id":"GBT","route_id":"36-221","route_long_name":"36","route_short_name":"36","route_type":3}},{"type":"route","id":"361-203","attributes":{"agency_id":"RTH","route_id":"361-203","route_long_name":"361","route_short_name":"361","route_type":3}},{"type":"route","id":"362-203","attributes":{"agency_id":"RTH","route_id":"362-203","route_long_name":"362","route_short_name":"362","route_type":3}},{"type":"route","id":"363-203","attributes":{"agency_id":"RTH","route_id":"363-203","route_long_name":"363","route_short_name":"363","route_type":3}},{"type":"route","id":"365-203","attributes":{"agency_id":"RTH","route_id":"365-203","route_long_name":"365","route_short_name":"365","route_type":3}},{"type":"route","id":"366-203","attributes":{"agency_id":"RTH","route_id":"366-203","route_long_name":"366","route_short_name":"366","route_type":3}},{"type":"route","id":"372-203","attributes":{"agency_id":"RTH","route_id":"372-203","route_long_name":"372","route_short_name":"372","route_type":3}},{"type":"route","id":"373-203","attributes":{"agency_id":"RTH","route_id":"373-203","route_long_name":"373","route_short_name":"373","route_type":3}},{"type":"route","id":"376-203","attributes":{"agency_id":"RTH","route_id":"376-203","route_long_name":"376","route_short_name":"376","route_type":3}},{"type":"route","id":"377-203","attributes":{"agency_id":"RTH","route_id":"377-203","route_long_name":"377","route_short_name":"377","route_type":3}},{"type":"route","id":"378-203","attributes":{"agency_id":"RTH","route_id":"378-203","route_long_name":"378","route_short_name":"378","route_type":3}},{"type":"route","id":"38-221","attributes":{"agency_id":"GBT","route_id":"38-221","route_long_name":"38","route_short_name":"38","route_type":3}},{"type":"route","id":"391-203","attributes":{"agency_id":"RTH","route_id":"391-203","route_long_name":"391","route_short_name":"391","route_type":3}},{"type":"route","id":"392-203","attributes":{"agency_id":"RTH","route_id":"392-203","route_long_name":"392","route_short_name":"392","route_type":3}},{"type":"route","id":"393-203","attributes":{"agency_id":"RTH","route_id":"393-203","route_long_name":"393","route_short_name":"393","route_type":3}},{"type":"route","id":"394-203","attributes":{"agency_id":"RTH","route_id":"394-203","route_long_name":"394","route_short_name":"394","route_type":3}},{"type":"route","id":"395-203","attributes":{"agency_id":"RTH","route_id":"395-203","route_long_name":"395","route_short_name":"395","route_type":3}},{"type":"route","id":"396-203","attributes":{"agency_id":"RTH","route_id":"396-203","route_long_name":"396","route_short_name":"396","route_type":3}},{"type":"route","id":"399-203","attributes":{"agency_id":"RTH","route_id":"399-203","route_long_name":"399","route_short_name":"399","route_type":3}},{"type":"route","id":"501-217","attributes":{"agency_id":"WBC","route_id":"501-217","route_long_name":"501","route_short_name":"501","route_type":3}},{"type":"route","id":"502-217","attributes":{"agency_id":"WBC","route_id":"502-217","route_long_name":"502","route_short_name":"502","route_type":3}},{"type":"route","id":"50A-217","attributes":{"agency_id":"WBC","route_id":"50A-217","route_long_name":"50A","route_short_name":"50A","route_type":3}},{"type":"route","id":"64-202","attributes":{"agency_id":"NZB","route_id":"64-202","route_long_name":"64","route_short_name":"64","route_type":3}},{"type":"route","id":"650-202","attributes":{"agency_id":"NZB","route_id":"650-202","route_long_name":"650","route_short_name":"650","route_type":3}},{"type":"route","id":"66-206","attributes":{"agency_id":"PC","route_id":"66-206","route_long_name":"66","route_short_name":"66","route_type":3}},{"type":"route","id":"670-202","attributes":{"agency_id":"NZB","route_id":"670-202","route_long_name":"670","route_short_name":"670","route_type":3}},{"type":"route","id":"68-202","attributes":{"agency_id":"NZB","route_id":"68-202","route_long_name":"68","route_short_name":"68","route_type":3}},{"type":"route","id":"70-205","attributes":{"agency_id":"HE","route_id":"70-205","route_long_name":"70","route_short_name":"70","route_type":3}},{"type":"route","id":"70H-205","attributes":{"agency_id":"HE","route_id":"70H-205","route_long_name":"70H","route_short_name":"70H","route_type":3}},{"type":"route","id":"711-221","attributes":{"agency_id":"GBT","route_id":"711-221","route_long_name":"711","route_short_name":"711","route_type":3}},{"type":"route","id":"712-221","attributes":{"agency_id":"GBT","route_id":"712-221","route_long_name":"712","route_short_name":"712","route_type":3}},{"type":"route","id":"72C-205","attributes":{"agency_id":"HE","route_id":"72C-205","route_long_name":"72C","route_short_name":"72C","route_type":3}},{"type":"route","id":"72M-205","attributes":{"agency_id":"HE","route_id":"72M-205","route_long_name":"72M","route_short_name":"72M","route_type":3}},{"type":"route","id":"72X-205","attributes":{"agency_id":"HE","route_id":"72X-205","route_long_name":"72X","route_short_name":"72X","route_type":3}},{"type":"route","id":"733-221","attributes":{"agency_id":"GBT","route_id":"733-221","route_long_name":"733","route_short_name":"733","route_type":3}},{"type":"route","id":"734-221","attributes":{"agency_id":"GBT","route_id":"734-221","route_long_name":"734","route_short_name":"734","route_type":3}},{"type":"route","id":"735-221","attributes":{"agency_id":"GBT","route_id":"735-221","route_long_name":"735","route_short_name":"735","route_type":3}},{"type":"route","id":"739-221","attributes":{"agency_id":"GBT","route_id":"739-221","route_long_name":"739","route_short_name":"739","route_type":3}},{"type":"route","id":"743-221","attributes":{"agency_id":"GBT","route_id":"743-221","route_long_name":"743","route_short_name":"743","route_type":3}},{"type":"route","id":"744-221","attributes":{"agency_id":"GBT","route_id":"744-221","route_long_name":"744","route_short_name":"744","route_type":3}},{"type":"route","id":"747-221","attributes":{"agency_id":"GBT","route_id":"747-221","route_long_name":"747","route_short_name":"747","route_type":3}},{"type":"route","id":"75-202","attributes":{"agency_id":"NZB","route_id":"75-202","route_long_name":"75","route_short_name":"75","route_type":3}},{"type":"route","id":"751-202","attributes":{"agency_id":"NZB","route_id":"751-202","route_long_name":"751","route_short_name":"751","route_type":3}},{"type":"route","id":"755-202","attributes":{"agency_id":"NZB","route_id":"755-202","route_long_name":"755","route_short_name":"755","route_type":3}},{"type":"route","id":"762-202","attributes":{"agency_id":"NZB","route_id":"762-202","route_long_name":"762","route_short_name":"762","route_type":3}},{"type":"route","id":"774-202","attributes":{"agency_id":"NZB","route_id":"774-202","route_long_name":"774","route_short_name":"774","route_type":3}},{"type":"route","id":"775-202","attributes":{"agency_id":"NZB","route_id":"775-202","route_long_name":"775","route_short_name":"775","route_type":3}},{"type":"route","id":"781-202","attributes":{"agency_id":"NZB","route_id":"781-202","route_long_name":"781","route_short_name":"781","route_type":3}},{"type":"route","id":"782-221","attributes":{"agency_id":"GBT","route_id":"782-221","route_long_name":"782","route_short_name":"782","route_type":3}},{"type":"route","id":"783-221","attributes":{"agency_id":"GBT","route_id":"783-221","route_long_name":"783","route_short_name":"783","route_type":3}},{"type":"route","id":"801-202","attributes":{"agency_id":"NZB","route_id":"801-202","route_long_name":"801","route_short_name":"801","route_type":3}},{"type":"route","id":"802-202","attributes":{"agency_id":"NZB","route_id":"802-202","route_long_name":"802","route_short_name":"802","route_type":3}},{"type":"route","id":"805-202","attributes":{"agency_id":"NZB","route_id":"805-202","route_long_name":"805","route_short_name":"805","route_type":3}},{"type":"route","id":"806-202","attributes":{"agency_id":"NZB","route_id":"806-202","route_long_name":"806","route_short_name":"806","route_type":3}},{"type":"route","id":"807-202","attributes":{"agency_id":"NZB","route_id":"807-202","route_long_name":"807","route_short_name":"807","route_type":3}},{"type":"route","id":"814-202","attributes":{"agency_id":"NZB","route_id":"814-202","route_long_name":"814","route_short_name":"814","route_type":3}},{"type":"route","id":"82-202","attributes":{"agency_id":"NZB","route_id":"82-202","route_long_name":"82","route_short_name":"82","route_type":3}},{"type":"route","id":"83-203","attributes":{"agency_id":"RTH","route_id":"83-203","route_long_name":"83","route_short_name":"83","route_type":3}},{"type":"route","id":"842-202","attributes":{"agency_id":"NZB","route_id":"842-202","route_long_name":"842","route_short_name":"842","route_type":3}},{"type":"route","id":"843-202","attributes":{"agency_id":"NZB","route_id":"843-202","route_long_name":"843","route_short_name":"843","route_type":3}},{"type":"route","id":"845-203","attributes":{"agency_id":"RTH","route_id":"845-203","route_long_name":"845","route_short_name":"845","route_type":3}},{"type":"route","id":"856-203","attributes":{"agency_id":"RTH","route_id":"856-203","route_long_name":"856","route_short_name":"856","route_type":3}},{"type":"route","id":"861-203","attributes":{"agency_id":"RTH","route_id":"861-203","route_long_name":"861","route_short_name":"861","route_type":3}},{"type":"route","id":"865-203","attributes":{"agency_id":"RTH","route_id":"865-203","route_long_name":"865","route_short_name":"865","route_type":3}},{"type":"route","id":"866-203","attributes":{"agency_id":"RTH","route_id":"866-203","route_long_name":"866","route_short_name":"866","route_type":3}},{"type":"route","id":"871-202","attributes":{"agency_id":"NZB","route_id":"871-202","route_long_name":"871","route_short_name":"871","route_type":3}},{"type":"route","id":"878-203","attributes":{"agency_id":"RTH","route_id":"878-203","route_long_name":"878","route_short_name":"878","route_type":3}},{"type":"route","id":"883-203","attributes":{"agency_id":"RTH","route_id":"883-203","route_long_name":"883","route_short_name":"883","route_type":3}},{"type":"route","id":"884-203","attributes":{"agency_id":"RTH","route_id":"884-203","route_long_name":"884","route_short_name":"884","route_type":3}},{"type":"route","id":"885-203","attributes":{"agency_id":"RTH","route_id":"885-203","route_long_name":"885","route_short_name":"885","route_type":3}},{"type":"route","id":"889-203","attributes":{"agency_id":"RTH","route_id":"889-203","route_long_name":"889","route_short_name":"889","route_type":3}},{"type":"route","id":"901-203","attributes":{"agency_id":"RTH","route_id":"901-203","route_long_name":"901","route_short_name":"901","route_type":3}},{"type":"route","id":"906-203","attributes":{"agency_id":"RTH","route_id":"906-203","route_long_name":"906","route_short_name":"906","route_type":3}},{"type":"route","id":"907-203","attributes":{"agency_id":"RTH","route_id":"907-203","route_long_name":"907","route_short_name":"907","route_type":3}},{"type":"route","id":"917-203","attributes":{"agency_id":"RTH","route_id":"917-203","route_long_name":"917","route_short_name":"917","route_type":3}},{"type":"route","id":"923-202","attributes":{"agency_id":"NZB","route_id":"923-202","route_long_name":"923","route_short_name":"923","route_type":3}},{"type":"route","id":"924-202","attributes":{"agency_id":"NZB","route_id":"924-202","route_long_name":"924","route_short_name":"924","route_type":3}},{"type":"route","id":"926-203","attributes":{"agency_id":"RTH","route_id":"926-203","route_long_name":"926","route_short_name":"926","route_type":3}},{"type":"route","id":"928-203","attributes":{"agency_id":"RTH","route_id":"928-203","route_long_name":"928","route_short_name":"928","route_type":3}},{"type":"route","id":"931-203","attributes":{"agency_id":"RTH","route_id":"931-203","route_long_name":"931","route_short_name":"931","route_type":3}},{"type":"route","id":"933-203","attributes":{"agency_id":"RTH","route_id":"933-203","route_long_name":"933","route_short_name":"933","route_type":3}},{"type":"route","id":"939-203","attributes":{"agency_id":"RTH","route_id":"939-203","route_long_name":"939","route_short_name":"939","route_type":3}},{"type":"route","id":"941-203","attributes":{"agency_id":"RTH","route_id":"941-203","route_long_name":"941","route_short_name":"941","route_type":3}},{"type":"route","id":"942-203","attributes":{"agency_id":"RTH","route_id":"942-203","route_long_name":"942","route_short_name":"942","route_type":3}},{"type":"route","id":"95B-203","attributes":{"agency_id":"RTH","route_id":"95B-203","route_long_name":"95B","route_short_name":"95B","route_type":3}},{"type":"route","id":"95C-203","attributes":{"agency_id":"RTH","route_id":"95C-203","route_long_name":"95C","route_short_name":"95C","route_type":3}},{"type":"route","id":"95G-203","attributes":{"agency_id":"RTH","route_id":"95G-203","route_long_name":"95G","route_short_name":"95G","route_type":3}},{"type":"route","id":"966-203","attributes":{"agency_id":"RTH","route_id":"966-203","route_long_name":"966","route_short_name":"966","route_type":3}},{"type":"route","id":"97B-203","attributes":{"agency_id":"RTH","route_id":"97B-203","route_long_name":"97B","route_short_name":"97B","route_type":3}},{"type":"route","id":"97R-203","attributes":{"agency_id":"RTH","route_id":"97R-203","route_long_name":"97R","route_short_name":"97R","route_type":3}},{"type":"route","id":"981-221","attributes":{"agency_id":"GBT","route_id":"981-221","route_long_name":"981","route_short_name":"981","route_type":3}},{"type":"route","id":"982-221","attributes":{"agency_id":"GBT","route_id":"982-221","route_long_name":"982","route_short_name":"982","route_type":3}},{"type":"route","id":"983-221","attributes":{"agency_id":"GBT","route_id":"983-221","route_long_name":"983","route_short_name":"983","route_type":3}},{"type":"route","id":"984-221","attributes":{"agency_id":"GBT","route_id":"984-221","route_long_name":"984","route_short_name":"984","route_type":3}},{"type":"route","id":"985-221","attributes":{"agency_id":"GBT","route_id":"985-221","route_long_name":"985","route_short_name":"985","route_type":3}},{"type":"route","id":"986-221","attributes":{"agency_id":"GBT","route_id":"986-221","route_long_name":"986","route_short_name":"986","route_type":3}},{"type":"route","id":"988-221","attributes":{"agency_id":"GBT","route_id":"988-221","route_long_name":"988","route_short_name":"988","route_type":3}},{"type":"route","id":"989-218","attributes":{"agency_id":"BAYES","route_id":"989-218","route_long_name":"989","route_short_name":"989","route_type":3}},{"type":"route","id":"995-203","attributes":{"agency_id":"RTH","route_id":"995-203","route_long_name":"995","route_short_name":"995","route_type":3}},{"type":"route","id":"996-203","attributes":{"agency_id":"RTH","route_id":"996-203","route_long_name":"996","route_short_name":"996","route_type":3}},{"type":"route","id":"997-203","attributes":{"agency_id":"RTH","route_id":"997-203","route_long_name":"997","route_short_name":"997","route_type":3}},{"type":"route","id":"998-203","attributes":{"agency_id":"RTH","route_id":"998-203","route_long_name":"998","route_short_name":"998","route_type":3}},{"type":"route","id":"AIR-221","attributes":{"agency_id":"GBT","route_color":"F39200","route_id":"AIR-221","route_long_name":"AIR","route_short_name":"AIR","route_text_color":"FFFFFF","route_type":3}},{"type":"route","id":"CTY-202","attributes":{"agency_id":"NZB","route_color":"E30613","route_id":"CTY-202","route_long_name":"CTY","route_short_name":"CTY","route_text_color":"FFFFFF","route_type":3}},{"type":"route","id":"INN-202","attributes":{"agency_id":"NZB","route_color":"56AF31","route_id":"INN-202","route_long_name":"INN","route_short_name":"INN","route_text_color":"FFFFFF","route_type":3}},{"type":"route","id":"MEX-403","attributes":{"agency_id":"MEX","route_color":"000000","route_id":"MEX-403","route_long_name":"MEX","route_short_name":"MEX","route_text_color":"FFFFFF","route_type":3}},{"type":"route","id":"N10-221","attributes":{"agency_id":"GBT","route_id":"N10-221","route_long_name":"N10","route_short_name":"N10","route_type":3}},{"type":"route","id":"NX1-203","attributes":{"agency_id":"RTH","route_id":"NX1-203","route_long_name":"NX1","route_short_name":"NX1","route_type":3}},{"type":"route","id":"NX2-207","attributes":{"agency_id":"TZG","route_id":"NX2-207","route_long_name":"NX2","route_short_name":"NX2","route_type":3}},{"type":"route","id":"OUT-202","attributes":{"agency_id":"NZB","route_color":"F39200","route_id":"OUT-202","route_long_name":"OUT","route_short_name":"OUT","route_text_color":"FFFFFF","route_type":3}},{"type":"route","id":"QODTAK-203","attributes":{"agency_id":"RTH","route_id":"QODTAK-203","route_long_name":"QODTAK","route_short_name":"QODTAK","route_type":3}},{"type":"route","id":"RBE-402","attributes":{"agency_id":"ATMB","route_color":"FDB913","route_id":"RBE-402","route_long_name":"RBE","route_short_name":"RBE","route_text_color":"152239","route_type":3}},{"type":"route","id":"RBO-402","attributes":{"agency_id":"ATMB","route_color":"00AEEF","route_id":"RBO-402","route_long_name":"RBO","route_short_name":"RBO","route_text_color":"FFFFFF","route_type":3}},{"type":"route","id":"RBS-402","attributes":{"agency_id":"ATMB","route_color":"EE2E27","route_id":"RBS-402","route_long_name":"RBS","route_short_name":"RBS","route_text_color":"FFFFFF","route_type":3}},{"type":"route","id":"RBSX-402","attributes":{"agency_id":"ATMB","route_id":"RBSX-402","route_long_name":"RBSX","route_short_name":"RBSx","route_type":3}},{"type":"route","id":"RBW-402","attributes":{"agency_id":"ATMB","route_color":"97C93D","route_id":"RBW-402","route_long_name":"RBW","route_short_name":"RBW","route_text_color":"152239","route_type":3}},{"type":"route","id":"TMK-202","attributes":{"agency_id":"NZB","route_color":"0086C7","route_id":"TMK-202","route_long_name":"TMK","route_short_name":"TMK","route_text_color":"FFFFFF","route_type":3}}]}\n'
+{
+    "data": [
+        {
+            "type": "route",
+            "id": "101-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "101-202",
+                "route_long_name": "101",
+                "route_short_name": "101",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "105-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "105-202",
+                "route_long_name": "105",
+                "route_short_name": "105",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "106-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "106-202",
+                "route_long_name": "106",
+                "route_short_name": "106",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "110-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "110-202",
+                "route_long_name": "110",
+                "route_short_name": "110",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "111-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "111-206",
+                "route_long_name": "111",
+                "route_short_name": "111",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "112-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "112-206",
+                "route_long_name": "112",
+                "route_short_name": "112",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "114-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "114-206",
+                "route_long_name": "114",
+                "route_short_name": "114",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "120-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "120-203",
+                "route_long_name": "120",
+                "route_short_name": "120",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "122-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "122-202",
+                "route_long_name": "122",
+                "route_short_name": "122",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "125-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "125-202",
+                "route_long_name": "125",
+                "route_short_name": "125",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "125X-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "125X-202",
+                "route_long_name": "125X",
+                "route_short_name": "125X",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "126-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "126-206",
+                "route_long_name": "126",
+                "route_short_name": "126",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "128-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "128-202",
+                "route_long_name": "128",
+                "route_short_name": "128",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "129-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "129-202",
+                "route_long_name": "129",
+                "route_short_name": "129",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "131-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "131-206",
+                "route_long_name": "131",
+                "route_short_name": "131",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "132-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "132-206",
+                "route_long_name": "132",
+                "route_short_name": "132",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "133-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "133-206",
+                "route_long_name": "133",
+                "route_short_name": "133",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "134-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "134-206",
+                "route_long_name": "134",
+                "route_short_name": "134",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "138-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "138-206",
+                "route_long_name": "138",
+                "route_short_name": "138",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "141-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "141-206",
+                "route_long_name": "141",
+                "route_short_name": "141",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "142-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "142-206",
+                "route_long_name": "142",
+                "route_short_name": "142",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "143-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "143-206",
+                "route_long_name": "143",
+                "route_short_name": "143",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "146-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "146-206",
+                "route_long_name": "146",
+                "route_short_name": "146",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "14T-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "14T-202",
+                "route_long_name": "14T",
+                "route_short_name": "14T",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "14W-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "14W-202",
+                "route_long_name": "14W",
+                "route_short_name": "14W",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "151-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "151-206",
+                "route_long_name": "151",
+                "route_short_name": "151",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "152-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "152-206",
+                "route_long_name": "152",
+                "route_short_name": "152",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "154-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "154-206",
+                "route_long_name": "154",
+                "route_short_name": "154",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "161-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "161-203",
+                "route_long_name": "161",
+                "route_short_name": "161",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "162-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "162-202",
+                "route_long_name": "162",
+                "route_short_name": "162",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "170-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "170-203",
+                "route_long_name": "170",
+                "route_short_name": "170",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "171-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "171-203",
+                "route_long_name": "171",
+                "route_short_name": "171",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "172-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "172-203",
+                "route_long_name": "172",
+                "route_short_name": "172",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "18-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "18-202",
+                "route_long_name": "18",
+                "route_short_name": "18",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "186-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "186-203",
+                "route_long_name": "186",
+                "route_short_name": "186",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "191-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "191-203",
+                "route_long_name": "191",
+                "route_short_name": "191",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "195-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "195-203",
+                "route_long_name": "195",
+                "route_short_name": "195",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "20-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "20-202",
+                "route_long_name": "20",
+                "route_short_name": "20",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "209-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "209-203",
+                "route_long_name": "209",
+                "route_short_name": "209",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "22A-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "22A-202",
+                "route_long_name": "22A",
+                "route_short_name": "22A",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "22N-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "22N-202",
+                "route_long_name": "22N",
+                "route_short_name": "22N",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "22R-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "22R-202",
+                "route_long_name": "22R",
+                "route_short_name": "22R",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "24B-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "24B-202",
+                "route_long_name": "24B",
+                "route_short_name": "24B",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "24R-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "24R-202",
+                "route_long_name": "24R",
+                "route_short_name": "24R",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "24W-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "24W-202",
+                "route_long_name": "24W",
+                "route_short_name": "24W",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "252-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "252-202",
+                "route_long_name": "252",
+                "route_short_name": "252",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "253-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "253-202",
+                "route_long_name": "253",
+                "route_short_name": "253",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "25B-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "25B-202",
+                "route_long_name": "25B",
+                "route_short_name": "25B",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "25L-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "25L-202",
+                "route_long_name": "25L",
+                "route_short_name": "25L",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "27H-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "27H-202",
+                "route_long_name": "27H",
+                "route_short_name": "27H",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "27T-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "27T-202",
+                "route_long_name": "27T",
+                "route_short_name": "27T",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "27W-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "27W-202",
+                "route_long_name": "27W",
+                "route_short_name": "27W",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "295-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "295-202",
+                "route_long_name": "295",
+                "route_short_name": "295",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "298-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "298-221",
+                "route_long_name": "298",
+                "route_short_name": "298",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "30-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "30-202",
+                "route_long_name": "30",
+                "route_short_name": "30",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "309-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "309-221",
+                "route_long_name": "309",
+                "route_short_name": "309",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "309X-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "309X-221",
+                "route_long_name": "309X",
+                "route_short_name": "309X",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "31-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "31-221",
+                "route_long_name": "31",
+                "route_short_name": "31",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "313-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "313-221",
+                "route_long_name": "313",
+                "route_short_name": "313",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "314-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "314-221",
+                "route_long_name": "314",
+                "route_short_name": "314",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "32-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "32-221",
+                "route_long_name": "32",
+                "route_short_name": "32",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "321-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "321-202",
+                "route_long_name": "321",
+                "route_short_name": "321",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "323-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "323-221",
+                "route_long_name": "323",
+                "route_short_name": "323",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "324-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "324-221",
+                "route_long_name": "324",
+                "route_short_name": "324",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "325-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "325-221",
+                "route_long_name": "325",
+                "route_short_name": "325",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "326-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "326-221",
+                "route_long_name": "326",
+                "route_short_name": "326",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "33-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "33-203",
+                "route_long_name": "33",
+                "route_short_name": "33",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "333X-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "333X-202",
+                "route_long_name": "333X",
+                "route_short_name": "333X",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "35-205",
+            "attributes": {
+                "agency_id": "HE",
+                "route_id": "35-205",
+                "route_long_name": "35",
+                "route_short_name": "35",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "351-205",
+            "attributes": {
+                "agency_id": "HE",
+                "route_id": "351-205",
+                "route_long_name": "351",
+                "route_short_name": "351",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "352-205",
+            "attributes": {
+                "agency_id": "HE",
+                "route_id": "352-205",
+                "route_long_name": "352",
+                "route_short_name": "352",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "353-205",
+            "attributes": {
+                "agency_id": "HE",
+                "route_id": "353-205",
+                "route_long_name": "353",
+                "route_short_name": "353",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "355-205",
+            "attributes": {
+                "agency_id": "HE",
+                "route_id": "355-205",
+                "route_long_name": "355",
+                "route_short_name": "355",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "36-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "36-221",
+                "route_long_name": "36",
+                "route_short_name": "36",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "361-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "361-203",
+                "route_long_name": "361",
+                "route_short_name": "361",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "362-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "362-203",
+                "route_long_name": "362",
+                "route_short_name": "362",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "363-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "363-203",
+                "route_long_name": "363",
+                "route_short_name": "363",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "365-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "365-203",
+                "route_long_name": "365",
+                "route_short_name": "365",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "366-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "366-203",
+                "route_long_name": "366",
+                "route_short_name": "366",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "372-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "372-203",
+                "route_long_name": "372",
+                "route_short_name": "372",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "373-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "373-203",
+                "route_long_name": "373",
+                "route_short_name": "373",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "376-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "376-203",
+                "route_long_name": "376",
+                "route_short_name": "376",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "377-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "377-203",
+                "route_long_name": "377",
+                "route_short_name": "377",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "378-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "378-203",
+                "route_long_name": "378",
+                "route_short_name": "378",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "38-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "38-221",
+                "route_long_name": "38",
+                "route_short_name": "38",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "391-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "391-203",
+                "route_long_name": "391",
+                "route_short_name": "391",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "392-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "392-203",
+                "route_long_name": "392",
+                "route_short_name": "392",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "393-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "393-203",
+                "route_long_name": "393",
+                "route_short_name": "393",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "394-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "394-203",
+                "route_long_name": "394",
+                "route_short_name": "394",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "395-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "395-203",
+                "route_long_name": "395",
+                "route_short_name": "395",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "396-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "396-203",
+                "route_long_name": "396",
+                "route_short_name": "396",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "399-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "399-203",
+                "route_long_name": "399",
+                "route_short_name": "399",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "501-217",
+            "attributes": {
+                "agency_id": "WBC",
+                "route_id": "501-217",
+                "route_long_name": "501",
+                "route_short_name": "501",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "502-217",
+            "attributes": {
+                "agency_id": "WBC",
+                "route_id": "502-217",
+                "route_long_name": "502",
+                "route_short_name": "502",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "50A-217",
+            "attributes": {
+                "agency_id": "WBC",
+                "route_id": "50A-217",
+                "route_long_name": "50A",
+                "route_short_name": "50A",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "64-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "64-202",
+                "route_long_name": "64",
+                "route_short_name": "64",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "650-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "650-202",
+                "route_long_name": "650",
+                "route_short_name": "650",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "66-206",
+            "attributes": {
+                "agency_id": "PC",
+                "route_id": "66-206",
+                "route_long_name": "66",
+                "route_short_name": "66",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "670-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "670-202",
+                "route_long_name": "670",
+                "route_short_name": "670",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "68-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "68-202",
+                "route_long_name": "68",
+                "route_short_name": "68",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "70-205",
+            "attributes": {
+                "agency_id": "HE",
+                "route_id": "70-205",
+                "route_long_name": "70",
+                "route_short_name": "70",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "70H-205",
+            "attributes": {
+                "agency_id": "HE",
+                "route_id": "70H-205",
+                "route_long_name": "70H",
+                "route_short_name": "70H",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "711-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "711-221",
+                "route_long_name": "711",
+                "route_short_name": "711",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "712-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "712-221",
+                "route_long_name": "712",
+                "route_short_name": "712",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "72C-205",
+            "attributes": {
+                "agency_id": "HE",
+                "route_id": "72C-205",
+                "route_long_name": "72C",
+                "route_short_name": "72C",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "72M-205",
+            "attributes": {
+                "agency_id": "HE",
+                "route_id": "72M-205",
+                "route_long_name": "72M",
+                "route_short_name": "72M",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "72X-205",
+            "attributes": {
+                "agency_id": "HE",
+                "route_id": "72X-205",
+                "route_long_name": "72X",
+                "route_short_name": "72X",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "733-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "733-221",
+                "route_long_name": "733",
+                "route_short_name": "733",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "734-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "734-221",
+                "route_long_name": "734",
+                "route_short_name": "734",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "735-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "735-221",
+                "route_long_name": "735",
+                "route_short_name": "735",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "739-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "739-221",
+                "route_long_name": "739",
+                "route_short_name": "739",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "743-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "743-221",
+                "route_long_name": "743",
+                "route_short_name": "743",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "744-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "744-221",
+                "route_long_name": "744",
+                "route_short_name": "744",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "747-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "747-221",
+                "route_long_name": "747",
+                "route_short_name": "747",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "75-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "75-202",
+                "route_long_name": "75",
+                "route_short_name": "75",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "751-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "751-202",
+                "route_long_name": "751",
+                "route_short_name": "751",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "755-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "755-202",
+                "route_long_name": "755",
+                "route_short_name": "755",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "762-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "762-202",
+                "route_long_name": "762",
+                "route_short_name": "762",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "774-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "774-202",
+                "route_long_name": "774",
+                "route_short_name": "774",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "775-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "775-202",
+                "route_long_name": "775",
+                "route_short_name": "775",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "781-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "781-202",
+                "route_long_name": "781",
+                "route_short_name": "781",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "782-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "782-221",
+                "route_long_name": "782",
+                "route_short_name": "782",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "783-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "783-221",
+                "route_long_name": "783",
+                "route_short_name": "783",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "801-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "801-202",
+                "route_long_name": "801",
+                "route_short_name": "801",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "802-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "802-202",
+                "route_long_name": "802",
+                "route_short_name": "802",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "805-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "805-202",
+                "route_long_name": "805",
+                "route_short_name": "805",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "806-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "806-202",
+                "route_long_name": "806",
+                "route_short_name": "806",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "807-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "807-202",
+                "route_long_name": "807",
+                "route_short_name": "807",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "814-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "814-202",
+                "route_long_name": "814",
+                "route_short_name": "814",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "82-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "82-202",
+                "route_long_name": "82",
+                "route_short_name": "82",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "83-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "83-203",
+                "route_long_name": "83",
+                "route_short_name": "83",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "842-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "842-202",
+                "route_long_name": "842",
+                "route_short_name": "842",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "843-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "843-202",
+                "route_long_name": "843",
+                "route_short_name": "843",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "845-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "845-203",
+                "route_long_name": "845",
+                "route_short_name": "845",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "856-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "856-203",
+                "route_long_name": "856",
+                "route_short_name": "856",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "861-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "861-203",
+                "route_long_name": "861",
+                "route_short_name": "861",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "865-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "865-203",
+                "route_long_name": "865",
+                "route_short_name": "865",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "866-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "866-203",
+                "route_long_name": "866",
+                "route_short_name": "866",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "871-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "871-202",
+                "route_long_name": "871",
+                "route_short_name": "871",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "878-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "878-203",
+                "route_long_name": "878",
+                "route_short_name": "878",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "883-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "883-203",
+                "route_long_name": "883",
+                "route_short_name": "883",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "884-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "884-203",
+                "route_long_name": "884",
+                "route_short_name": "884",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "885-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "885-203",
+                "route_long_name": "885",
+                "route_short_name": "885",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "889-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "889-203",
+                "route_long_name": "889",
+                "route_short_name": "889",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "901-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "901-203",
+                "route_long_name": "901",
+                "route_short_name": "901",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "906-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "906-203",
+                "route_long_name": "906",
+                "route_short_name": "906",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "907-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "907-203",
+                "route_long_name": "907",
+                "route_short_name": "907",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "917-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "917-203",
+                "route_long_name": "917",
+                "route_short_name": "917",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "923-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "923-202",
+                "route_long_name": "923",
+                "route_short_name": "923",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "924-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_id": "924-202",
+                "route_long_name": "924",
+                "route_short_name": "924",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "926-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "926-203",
+                "route_long_name": "926",
+                "route_short_name": "926",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "928-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "928-203",
+                "route_long_name": "928",
+                "route_short_name": "928",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "931-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "931-203",
+                "route_long_name": "931",
+                "route_short_name": "931",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "933-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "933-203",
+                "route_long_name": "933",
+                "route_short_name": "933",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "939-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "939-203",
+                "route_long_name": "939",
+                "route_short_name": "939",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "941-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "941-203",
+                "route_long_name": "941",
+                "route_short_name": "941",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "942-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "942-203",
+                "route_long_name": "942",
+                "route_short_name": "942",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "95B-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "95B-203",
+                "route_long_name": "95B",
+                "route_short_name": "95B",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "95C-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "95C-203",
+                "route_long_name": "95C",
+                "route_short_name": "95C",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "95G-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "95G-203",
+                "route_long_name": "95G",
+                "route_short_name": "95G",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "966-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "966-203",
+                "route_long_name": "966",
+                "route_short_name": "966",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "97B-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "97B-203",
+                "route_long_name": "97B",
+                "route_short_name": "97B",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "97R-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "97R-203",
+                "route_long_name": "97R",
+                "route_short_name": "97R",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "981-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "981-221",
+                "route_long_name": "981",
+                "route_short_name": "981",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "982-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "982-221",
+                "route_long_name": "982",
+                "route_short_name": "982",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "983-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "983-221",
+                "route_long_name": "983",
+                "route_short_name": "983",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "984-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "984-221",
+                "route_long_name": "984",
+                "route_short_name": "984",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "985-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "985-221",
+                "route_long_name": "985",
+                "route_short_name": "985",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "986-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "986-221",
+                "route_long_name": "986",
+                "route_short_name": "986",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "988-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "988-221",
+                "route_long_name": "988",
+                "route_short_name": "988",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "989-218",
+            "attributes": {
+                "agency_id": "BAYES",
+                "route_id": "989-218",
+                "route_long_name": "989",
+                "route_short_name": "989",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "995-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "995-203",
+                "route_long_name": "995",
+                "route_short_name": "995",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "996-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "996-203",
+                "route_long_name": "996",
+                "route_short_name": "996",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "997-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "997-203",
+                "route_long_name": "997",
+                "route_short_name": "997",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "998-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "998-203",
+                "route_long_name": "998",
+                "route_short_name": "998",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "AIR-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_color": "F39200",
+                "route_id": "AIR-221",
+                "route_long_name": "AIR",
+                "route_short_name": "AIR",
+                "route_text_color": "FFFFFF",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "CTY-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_color": "E30613",
+                "route_id": "CTY-202",
+                "route_long_name": "CTY",
+                "route_short_name": "CTY",
+                "route_text_color": "FFFFFF",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "INN-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_color": "56AF31",
+                "route_id": "INN-202",
+                "route_long_name": "INN",
+                "route_short_name": "INN",
+                "route_text_color": "FFFFFF",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "MEX-403",
+            "attributes": {
+                "agency_id": "MEX",
+                "route_color": "000000",
+                "route_id": "MEX-403",
+                "route_long_name": "MEX",
+                "route_short_name": "MEX",
+                "route_text_color": "FFFFFF",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "N10-221",
+            "attributes": {
+                "agency_id": "GBT",
+                "route_id": "N10-221",
+                "route_long_name": "N10",
+                "route_short_name": "N10",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "NX1-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "NX1-203",
+                "route_long_name": "NX1",
+                "route_short_name": "NX1",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "NX2-207",
+            "attributes": {
+                "agency_id": "TZG",
+                "route_id": "NX2-207",
+                "route_long_name": "NX2",
+                "route_short_name": "NX2",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "OUT-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_color": "F39200",
+                "route_id": "OUT-202",
+                "route_long_name": "OUT",
+                "route_short_name": "OUT",
+                "route_text_color": "FFFFFF",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "QODTAK-203",
+            "attributes": {
+                "agency_id": "RTH",
+                "route_id": "QODTAK-203",
+                "route_long_name": "QODTAK",
+                "route_short_name": "QODTAK",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "RBE-402",
+            "attributes": {
+                "agency_id": "ATMB",
+                "route_color": "FDB913",
+                "route_id": "RBE-402",
+                "route_long_name": "RBE",
+                "route_short_name": "RBE",
+                "route_text_color": "152239",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "RBO-402",
+            "attributes": {
+                "agency_id": "ATMB",
+                "route_color": "00AEEF",
+                "route_id": "RBO-402",
+                "route_long_name": "RBO",
+                "route_short_name": "RBO",
+                "route_text_color": "FFFFFF",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "RBS-402",
+            "attributes": {
+                "agency_id": "ATMB",
+                "route_color": "EE2E27",
+                "route_id": "RBS-402",
+                "route_long_name": "RBS",
+                "route_short_name": "RBS",
+                "route_text_color": "FFFFFF",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "RBSX-402",
+            "attributes": {
+                "agency_id": "ATMB",
+                "route_id": "RBSX-402",
+                "route_long_name": "RBSX",
+                "route_short_name": "RBSx",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "RBW-402",
+            "attributes": {
+                "agency_id": "ATMB",
+                "route_color": "97C93D",
+                "route_id": "RBW-402",
+                "route_long_name": "RBW",
+                "route_short_name": "RBW",
+                "route_text_color": "152239",
+                "route_type": 3
+            }
+        },
+        {
+            "type": "route",
+            "id": "TMK-202",
+            "attributes": {
+                "agency_id": "NZB",
+                "route_color": "0086C7",
+                "route_id": "TMK-202",
+                "route_long_name": "TMK",
+                "route_short_name": "TMK",
+                "route_text_color": "FFFFFF",
+                "route_type": 3
+            }
+        }
+    ]
+}

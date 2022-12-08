@@ -3,6 +3,7 @@ trying out Auckland transports api
 
 
 Lloyd ave stops id = ```2347-8b74f57a```
+auckland university stop id = ```31984-fb46d0f9```
 
 data about Lloyd ave
 ```json
